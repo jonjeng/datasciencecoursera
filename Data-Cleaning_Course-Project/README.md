@@ -1,4 +1,4 @@
-# Data Cleaning Course Project
+# Getting and Cleaning Data Course Project
 ___
 
 This repo contains a script, `run_analysis.R`, for modifying data collected using Samsung Galaxy S smartphones and for the purpose of furthering human activity recognition (available here: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)).
