@@ -1,4 +1,4 @@
-#Data
+# Data
 ___
 The data obtained for and operated on in the script run_analysis.R is originally available on the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 The script explicitly removes from the workspace variables containing data that is not needed for the project. As such, the data immediately accessible is but a limited subset of the original dataset of the above link. The following will describe this limited subset.
